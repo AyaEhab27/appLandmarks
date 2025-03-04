@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+tensorflow
+opencv-python
+mediapipe
+pydantic
+gtts
